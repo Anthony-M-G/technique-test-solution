@@ -2,7 +2,6 @@ package com.cr.app.techniquetestsolution.Controller;
 
 import com.cr.app.techniquetestsolution.Entities.DocumentEntity;
 import com.cr.app.techniquetestsolution.Services.DocumentService;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
